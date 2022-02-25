@@ -24,11 +24,22 @@ sudo npm install -g n
 sudo n stable
 ```
 
+```bash
+sudo npm install yarn -g
+```
+
 **git**
 
 ```bash
 sudo apt install git
 ```
+
+Create new ssh key and add it to github:
+
+```bash
+ssh-keygen -t ed25519 -C "info@geoswap.app"
+``` 
+
 
 **Visual Studio Code**
 
@@ -44,6 +55,18 @@ We create a directory 'develop' in your home dir, everything will be in there
 mkdir develop
 cd develop
 ```
+
+
+## Publishing Package
+
+in .bashrc:
+
+export NPM_TOKEN="YOUR TOKEN"
+
+
+To publish call:
+
+npm publish --access public
 
 
 
