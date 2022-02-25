@@ -56,6 +56,15 @@ mkdir develop
 cd develop
 ```
 
+Clone
+
+```bash
+git clone git@github.com:geotokenapp/eslint-config-geoswap.git
+git clone git@github.com:geotokenapp/geoswap-sdk.git
+
+```
+
+
 
 ## Publishing Package
 
