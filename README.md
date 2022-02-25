@@ -61,7 +61,7 @@ Clone
 ```bash
 git clone git@github.com:geotokenapp/eslint-config-geoswap.git
 git clone git@github.com:geotokenapp/geoswap-sdk.git
-
+git clone git@github.com:geotokenapp/geoswap-uikit.git
 ```
 
 
