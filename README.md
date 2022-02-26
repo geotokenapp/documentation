@@ -62,6 +62,7 @@ Clone
 git clone git@github.com:geotokenapp/eslint-config-geoswap.git
 git clone git@github.com:geotokenapp/geoswap-sdk.git
 git clone git@github.com:geotokenapp/geoswap-uikit.git
+git clone git@github.com:geotokenapp/geoswap-token-lists.git
 git clone git@github.com:geotokenapp/geoswap-frontend.git
 ```
 
