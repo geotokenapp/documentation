@@ -66,6 +66,12 @@ git clone git@github.com:geotokenapp/geoswap-token-lists.git
 git clone git@github.com:geotokenapp/geoswap-frontend.git
 ```
 
+Branches:
+
+```
+cd geoswap-sdk
+git checkout canary
+```
 
 
 ## Publishing Package
