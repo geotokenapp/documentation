@@ -71,12 +71,14 @@ git clone git@github.com:geotokenapp/geoswap-frontend.git
 
 in .bashrc:
 
+```bash
 export NPM_TOKEN="YOUR TOKEN"
-
+```
 
 To publish call:
 
+```bash
 npm publish --access public
-
+```
 
 
